@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_margin">15dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_twenty">20dp</dimen>
+</resources>
